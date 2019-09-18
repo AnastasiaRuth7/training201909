@@ -2,3 +2,4 @@ Welcome to git
 Git is awesome
 
 Exercise 7
+Demonstrate difftool
